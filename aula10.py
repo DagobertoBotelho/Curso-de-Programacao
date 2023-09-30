@@ -35,6 +35,21 @@
 
 # exercicio 4
 
+#pa = 80000 
+#pb = 200000 
+#ano = 0
+#while True:
+    #pa = (pa+(pa * 0.03))
+    #pb = (pb+(pb * 0.015))
+    #ano = ano + 1
+    #if pa > pb:
+        
+        #break
+
+#print(ano) 
+
+# exercicio 4
+
 pa = 80000 
 pb = 200000 
 ano = 0
@@ -45,5 +60,3 @@ while True:
     if pa > pb:
         
         break
-
-print(ano) 
