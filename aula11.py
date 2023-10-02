@@ -48,26 +48,26 @@
 
 # exercicio 5
 
-ap = []
-re = []
-media = []
-soma = 0
-nott = 0
-for a in range(5):
-    print("Aluno",a)
-    for b in range(4):
-        nott = int(input("Digite a nota do aluno: "))
-        soma += nott
-    med = soma / 4
-    media.append(med)
-    if med >= 7:
-        ap.append(med)
-    else:
-        re.append(med)
-    soma = 0
-    nott = 0
+#ap = []
+#re = []
+#media = []
+#soma = 0
+#nott = 0
+#for a in range(5):
+    #print("Aluno",a)
+    #for b in range(4):
+        #nott = int(input("Digite a nota do aluno: "))
+        #soma += nott
+    #med = soma / 4
+    #media.append(med)
+    #if med >= 7:
+        #ap.append(med)
+    #else:
+        #re.append(med)
+    #soma = 0
+    #nott = 0
 
-print("Alunos aprovados",ap)
+#print("Alunos aprovados",ap)
 
 
 
