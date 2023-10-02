@@ -22,4 +22,3 @@
 #segundo = int(((vm - hora) * 60 - minuto) * 60)
 
 #print("o tempo é de",hora,"horas,",minuto,"minutos e",segundo,"segundos.")
-
