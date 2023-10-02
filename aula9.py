@@ -13,14 +13,13 @@
 
 # exercicio casa 2
 
-distancia = float(input("Digite a distancia: "))
-tempo = float(input("Digite o tempo: "))
+#distancia = float(input("Digite a distancia: "))
+#tempo = float(input("Digite o tempo: "))
+#vm = distancia / tempo
 
-vm = distancia / tempo
+#hora = int(vm)
+#minuto = int((vm - hora) * 60)
+#segundo = int(((vm - hora) * 60 - minuto) * 60)
 
-hora = int(vm)
-minuto = int((vm - hora) * 60)
-segundo = int(((vm - hora) * 60 - minuto) * 60)
-
-print("o tempo é de",hora,"horas,",minuto,"minutos e",segundo,"segundos.")
+#print("o tempo é de",hora,"horas,",minuto,"minutos e",segundo,"segundos.")
 
