@@ -41,7 +41,7 @@ while True:
         imposto3 = cad_imposto3 / 100
 
         cad_lucro = float(input("Digite a porcentagem de lucro: "))
-        calc_lucro = cad_lucro / 100
+        calc_lucro = cad_lucro / 100 
         lucro.append(calc_lucro)
         print("--------------- CADASTRADO ---------------")
         print("Produto cadastrado com sucesso")
