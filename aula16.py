@@ -19,5 +19,3 @@
 
 #elif escolha == 2:
 #    nome = str(input("Digite o noem do contato: "))
-
-
