@@ -68,7 +68,3 @@
     #nott = 0
 
 #print("Alunos aprovados",ap)
-
-
-
-        
